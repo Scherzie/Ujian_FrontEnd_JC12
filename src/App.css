@@ -1,38 +1,155 @@
-.App {
-  text-align: center;
+* {
+  padding: 0;
+  margin: 0;
+  font-family: var(--Sniglet);
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+:root {
+  /* Font-Family */
+  --Sniglet: 'Sniglet', cursive;
+  --Rancho: 'Rancho', cursive;
+  --Pacifico: 'Pacifico', cursive;
+  --Itim: 'Itim', cursive;
+  --Harmattan: 'Harmattan', sans-serif;
+  --GochiHand: 'Gochi Hand', cursive;
+  --Gabriela: 'Gabriela', serif;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.headercolor {
+  background-color:skyblue;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.isabelleLogo {
+width: 4%;
+height: 4%;
+margin-right: 2%;
+}
+
+.logo {
+  font-size: 120%;
+  font-weight: bold;
+}
+
+.tittle {
+font-size: 200%;
+padding-left: 43%;
+}
+
+.card-text{
+  font-size: 2.4em;
+  text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+  color: black;
+}
+
+.card-home{
+  transition: 250ms;
+}
+
+.card-home:hover{
+  cursor: pointer;
+  opacity: 0.5;
+}
+
+.hovererr:hover {
+  cursor: pointer;
+}
+
+.dropdown1 {
+  width: 100px !important
+}
+
+.warnanav {
+  color: white
+}
+
+.warnanav:hover {
+  color: white !important
+}
+
+.navbar { 
+  box-shadow: none !important; 
+}
+
+.kotakhitam {
+  background-color: rgba(0, 0, 0, 0.0);
+  width: 100%;
+  height: 300px;
+  position: absolute;
+  bottom: 0;
+  top: 0;
+  z-index: 10;
   display: flex;
-  flex-direction: column;
-  align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  align-items: center;
+  transition: 500ms;
+}
+
+.kotakhitam:hover {
+  background-color: rgba(0, 0, 0, 0.365);
+}
+
+.tombolbuynow {
+  display: none;
+}
+
+.kotakhitam:hover .tombolbuynow {
+  display: block;
+  border: 2px solid white;
+  color: white;
+  background-color: transparent;
+  width: 50%;
+}
+
+.kotakhitam:hover .tombolbuynow:hover {
+  background-color: white;
+  transition: 700ms;
+  border: 1px solid black;
+}
+
+.kotakhitam:hover .tomboldalam {
+  background-color: transparent;
+  border: none;
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.kotakhitam:hover .tombolbuynow:hover .tomboldalam {
+  color: black;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.paddingatas {
+  padding-top: 8%;
+  padding-left: 2%;
+  padding-right: 2%;
+}
+
+.product-detail {
+  border: 1px solid #f8f9fa;
+}
+
+.border-headerdetail {
+  border-bottom: gray solid 0.5px;
+}
+
+.font-nameprod {
+  font-size: 30px;
+}
+
+.font-typographysmall {
+  font-size: 14px;
+}
+
+.font-typographymed {
+  font-size: 19px;
+}
+
+.font-harga {
+  font-size: 22px;
+  color: orangered;
+}
+
+.DeadLink {
+  margin-top: 10%;
+  margin-left: 32%;
+  display: flex;
+  flex-direction: column;
 }

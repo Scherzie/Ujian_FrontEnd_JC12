@@ -1,0 +1,201 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "zie",
+      "password": "admin",
+      "email": "admin@admin.com",
+      "role": "admin"
+    },
+    {
+      "password": "test",
+      "username": "dian",
+      "role": "user",
+      "email": "dian@test.com",
+      "id": 2
+    }
+  ],
+  "products": [
+    {
+      "name": "Nintendo Switch - Animal Crossing™: New Horizons Edition",
+      "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6401/6401728_sd.jpg",
+      "stock": 10,
+      "categoryId": 1,
+      "price": 6000000,
+      "description": "This Nintendo Switch™ system takes design inspiration from the new Animal Crossing™: New Horizons game, with lovely pastel green and blue Joy-Con™ controllers that are white on the back, white wrist straps and a white Nintendo Switch dock , adorned with images of recognizable characters Tom Nook and Nooklings Timmy and Tommy.",
+      "id": 1,
+      "cat": "Console"
+    },
+    {
+      "name": "Nintendo Switch with Neon Blue and Neon Red Joy‑Con™",
+      "image": "https://store.83north.ca/wp-content/uploads/2017/06/14106587955230.jpg",
+      "stock": 10,
+      "categoryId": 1,
+      "price": 4700000,
+      "description": "Get the gaming system that lets you play the games you want, wherever you are, however you like. Includes the Nintendo Switch console and Nintendo Switch dock in black, with contrasting left and right Joy‑Con controllers—one red, one blue. Also includes all the extras you need to get started. Model number: HAC-001(-01) (product serial number begins with “XKW”). This model includes battery life of approximately 4.5 - 9 hours*.",
+      "id": 2,
+      "cat": "Console"
+    },
+    {
+      "name": "Nintendo Switch Lite - Coral",
+      "image": "https://thepopinsider.com/wp-content/uploads/2020/02/NintendoSwicth_Coral_Feat.jpg",
+      "stock": 10,
+      "categoryId": 1,
+      "price": 3000000,
+      "description": "Nintendo Switch Lite is a compact, lightweight Nintendo Switch system dedicated to handheld play. With a built-in +Control Pad and a sleek, unibody design, it’s great for on-the-go gaming. Nintendo Switch Lite is compatible with the robust library of Nintendo Switch games that support handheld mode. If you’re looking for a gaming system all your own, Nintendo Switch Lite is ready to hit the road whenever you are.",
+      "id": 3,
+      "cat": "Console"
+    },
+    {
+      "name": "Animal Crossing™: New Horizons",
+      "image": "https://static-ca.ebgames.ca/images/products/751287/3max.jpg",
+      "stock": 30,
+      "categoryId": 2,
+      "price": 700000,
+      "description": "Escape to a deserted island and create your own paradise as you explore, create, and customize in the Animal Crossing: New Horizons game. Your island getaway has a wealth of natural resources that can be used to craft everything from tools to creature comforts. You can hunt down insects at the crack of dawn, decorate your paradise throughout the day, or enjoy sunset on the beach while fishing in the ocean. The time of day and season match real life, so each day on your island is a chance to check in and find new surprises all year round.",
+      "id": 4,
+      "cat": "Games"
+    },
+    {
+      "name": "Fire Emblem™: Three Houses",
+      "image": "https://media.gamestop.com/i/gamestop/10173345/Fire-Emblem-Three-Houses",
+      "stock": 30,
+      "categoryId": 2,
+      "price": 680000,
+      "description": "War is coming to the continent of Fódlan. Here, order is maintained by the Church of Seiros, which hosts the prestigious Officer’s Academy within its headquarters. You are invited to teach one of its three mighty houses, each comprised of students brimming with personality and represented by a royal from one of three territories. As their professor, you must lead your students in their academic lives and in turn-based, tactical RPG battles wrought with strategic, new twists to overcome. Which house, and which path, will you choose?",
+      "id": 5,
+      "cat": "Games"
+    },
+    {
+      "name": "Splatoon™ 2",
+      "image": "https://i5.walmartimages.ca/images/Enlarge/169/417/6000197169417.jpg",
+      "stock": 30,
+      "categoryId": 2,
+      "price": 670000,
+      "description": "Get hyped for the sequel to the hit game about splatting ink and claiming turf, as the squid-like Inklings return in a colorful and chaotic 4 vs. 4 action shooter. For the first time, take Turf War battles on-the-go via local multiplayer in portable play styles. You can also compete in frenetic online matches like before. Two years have passed since the release of the Splatoon game, and two years have also passed in the game world, leading to an evolution in fashion trends and new styles of weapons and gear. Staying fresh never looked so good.",
+      "id": 6,
+      "cat": "Games"
+    },
+    {
+      "name": "Nintendo Switch Animal Crossing™: New Horizons Aloha Edition Carrying Case & Screen Protector",
+      "image": "https://media.gamestop.com/i/gamestop/11100257/Nintendo-Switch-Animal-Crossing-New-Horizons-Aloha-Edition-Carrying-Case-and-Screen-Protector",
+      "stock": 20,
+      "categoryId": 3,
+      "price": 400000,
+      "description": "This stylish case will help protect your Nintendo Switch™ system when you take the Animal Crossing™: New Horizons game on the go and escape to a tropical island paradise anytime, anywhere.",
+      "id": 7,
+      "cat": "Accessories"
+    },
+    {
+      "name": "Adjustable Charging Stand for Nintendo Switch",
+      "image": "https://ecs7.tokopedia.net/img/cache/700/product-1/2018/5/14/15386797/15386797_1eb6e3c6-852d-4a7b-ad12-90bcbfd79042_384_384.jpg",
+      "stock": 20,
+      "categoryId": 3,
+      "price": 350000,
+      "description": "The adjustable charging stand allows the Nintendo Switch system to be charging while in Tabletop mode, enabling longer play sessions. The angle of the stand can also be adjusted to create the best viewing angle for different environments.",
+      "id": 8,
+      "cat": "Accessories"
+    },
+    {
+      "name": "Poké Ball™ Plus",
+      "image": "https://media.gamestop.com/i/gamestop/10164294/Nintendo-Switch-Poke-Ball-Plus",
+      "stock": 20,
+      "categoryId": 3,
+      "price": 700000,
+      "description": "Every great Trainer needs a Poké Ball™ to catch and store their Pokémon™. With Poké Ball Plus, you can bring your Pokémon adventure into the real world with an accessory that fits in the palm of your hand. And just like with Pokémon™ GO Plus, you can use your Poké Ball Plus when playing Pokémon™ GO on a compatible smartphone.",
+      "id": 9,
+      "cat": "Accessories"
+    },
+    {
+      "name": "The Legend of Zelda™: Breath of the Wild",
+      "image": "https://i.pinimg.com/originals/c2/6c/44/c26c4445aad832c4ef942bc72c81e70d.png",
+      "stock": 5,
+      "categoryId": 2,
+      "price": 750000,
+      "description": "Forget everything you know about The Legend of Zelda games. Step into a world of discovery, exploration, and adventure in The Legend of Zelda: Breath of the Wild, a boundary-breaking new game in the acclaimed series. Travel across vast fields, through forests, and to mountain peaks as you discover what has become of the kingdom of Hyrule in this stunning Open-Air Adventure. Now on Nintendo Switch, your journey is freer and more open than ever. Take your system anywhere, and adventure as Link any way you like.",
+      "id": 10,
+      "cat": "Games"
+    },
+    {
+      "name": "Ring Fit Adventure",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/8156rC8eRZL._AC_SX466_.jpg",
+      "stock": 3,
+      "categoryId": 2,
+      "price": 1750000,
+      "description": "Traverse grass-swept plains by jogging in place, attack enemies with overhead shoulder presses, and refill your health meter by striking some yoga poses. Two new accessories, the Ring-Con™ and Leg Strap, measure your real-world actions and help turn them into in-game movements. With additional minigames and customizable workout routines, Ring Fit Adventure is great escape for players of all skill levels and schedules.",
+      "id": 11,
+      "cat": "Games"
+    },
+    {
+      "name": "GuliKit Dock",
+      "image": "https://cf.shopee.co.id/file/8d0277fb8f565b551c4cfedf68944006",
+      "stock": 15,
+      "categoryId": 3,
+      "price": 500000,
+      "description": "Super Compact and Portable Dock for the Nintendo Switch\nPerfect industry design,magnetic cover block makes it compact as a whole. Super portable design allows to just put it into pocket. Support 4K,1080P and 720P video output (Nintendo Switch only supports 1080P). Air outlets keep your Switch cooling well. Easy switch to TV and tabletop mode. Extra USB3.0 port for USB wired controller,controller adapter. Big anti-slip mat,stable stand. Conform to USB-C PD protocol,support original Switch adapter and other 5V/3A adapters. FLASH architecture design,firmware upgradeable for Switch new system. Support smart phones as a dock for charging and video output from smart phones to TV or projector. No bricking worry and 1 year warranty.",
+      "id": 12,
+      "cat": "Accessories"
+    },
+    {
+      "name": "Joy‑Con™ Wheel (Set of 2)",
+      "image": "https://www.nintendo.com/content/dam/noa/en_US/hardware/switch/accessories/joy-con-wheel/gallery/joy-con_wheel.jpg",
+      "stock": 3,
+      "categoryId": 3,
+      "price": 350000,
+      "description": "Insert a Joy‑Con into this accessory to feel like you’re behind the wheel in your favorite racing game.\nJoy‑Con controllers not included.",
+      "id": 13,
+      "cat": "Accessories"
+    },
+    {
+      "name": "Nintendo Switch Lite - Turquoise",
+      "image": "https://www.nintendo.com/content/dam/noa/en_US/hardware/switch/nintendo-switch-lite-turquoise-alt/gallery/1_Switch_Light_Turquoise_box.jpg",
+      "stock": 10,
+      "categoryId": 1,
+      "price": 3000000,
+      "description": "Nintendo Switch Lite is a compact, lightweight Nintendo Switch system dedicated to handheld play. With a built-in +Control Pad and a sleek, unibody design, it’s great for on-the-go gaming. Nintendo Switch Lite is compatible with the robust library of Nintendo Switch games that support handheld mode. If you’re looking for a gaming system all your own, Nintendo Switch Lite is ready to hit the road whenever you are.\nIncludes: Nintendo Switch Lite system and Nintendo Switch AC adapter.",
+      "id": 14,
+      "cat": "Console"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Console"
+    },
+    {
+      "id": 2,
+      "name": "Games"
+    },
+    {
+      "id": 3,
+      "name": "Accessories"
+    }
+  ],
+  "transactions": [
+    {
+      "status": "oncart",
+      "userId": 2,
+      "id": 1
+    }
+  ],
+  "transactiondetails": [
+    {
+      "transactionId": 1,
+      "productId": 4,
+      "qty": 1,
+      "id": 1
+    },
+    {
+      "transactionId": 1,
+      "productId": 3,
+      "qty": 1,
+      "id": 4
+    },
+    {
+      "transactionId": 1,
+      "productId": 4,
+      "qty": 2,
+      "id": 5
+    }
+  ]
+}

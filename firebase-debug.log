@@ -1,0 +1,68 @@
+[debug] [2020-03-24T12:01:15.563Z] ----------------------------------------------------------------------
+[debug] [2020-03-24T12:01:15.565Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\octob\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2020-03-24T12:01:15.565Z] CLI Version:   7.14.0
+[debug] [2020-03-24T12:01:15.565Z] Platform:      win32
+[debug] [2020-03-24T12:01:15.565Z] Node Version:  v12.14.1
+[debug] [2020-03-24T12:01:15.566Z] Time:          Tue Mar 24 2020 19:01:15 GMT+0700 (Western Indonesia Time)
+[debug] [2020-03-24T12:01:15.566Z] ----------------------------------------------------------------------
+[debug] [2020-03-24T12:01:15.566Z] 
+[debug] [2020-03-24T12:01:15.574Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-03-24T12:01:15.574Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Personal\Purwadhika\Front End\ujian_front_end
+
+Before we get started, keep in mind:
+
+  * You are currently outside your home directory
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[info] i  If you want to create a project in a Google Cloud organization or folder, please use "firebase projects:create" instead, and return to this command when you've created the project.
+[debug] [2020-03-24T12:03:37.314Z] ----------------------------------------------------------------------
+[debug] [2020-03-24T12:03:37.316Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\octob\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2020-03-24T12:03:37.316Z] CLI Version:   7.14.0
+[debug] [2020-03-24T12:03:37.316Z] Platform:      win32
+[debug] [2020-03-24T12:03:37.317Z] Node Version:  v12.14.1
+[debug] [2020-03-24T12:03:37.317Z] Time:          Tue Mar 24 2020 19:03:37 GMT+0700 (Western Indonesia Time)
+[debug] [2020-03-24T12:03:37.317Z] ----------------------------------------------------------------------
+[debug] [2020-03-24T12:03:37.317Z] 
+[debug] [2020-03-24T12:03:37.323Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-03-24T12:03:37.323Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Personal\Purwadhika\Front End\ujian_front_end
+
+Before we get started, keep in mind:
+
+  * You are currently outside your home directory
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2020-03-24T12:03:46.369Z] > refreshing access token with scopes: ["email","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","openid"]
+[debug] [2020-03-24T12:03:46.370Z] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token  
+ <request body omitted>
